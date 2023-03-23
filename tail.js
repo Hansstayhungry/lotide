@@ -4,12 +4,4 @@ const tail = function(words) {
 };
 
 
-const assertEqual = function(result, expected) {
-  if (result === expected) {
-    console.log(`Assertion Passed: ${result} === ${expected}`);
-  } else {
-    console.log(`Assertion Failed: ${result} !== ${expected}`);
-  }
-};
-
 module.exports = tail;
