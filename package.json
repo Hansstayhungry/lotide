@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@mikastayhungry/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "Lighthouse Lab Lotide Project",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Hansstayhungry/lotide.git"
   },
-  "author": "",
+  "author": "Hans Wang <wei.hans.wang@outlook.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Hansstayhungry/lotide/issues"
